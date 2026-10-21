@@ -2,9 +2,9 @@
 
 My data science portfolio, published with GitHub Pages.
 
-- **Live site:** https://YOUR-GITHUB-USERNAME.github.io/data-science-portfolio/
+- **Live site:** https://cinky8848.github.io/data-science-portfolio/
 - **Entry file:** [`index.md`](index.md) — rendered as the homepage by GitHub Pages
-- **Featured project:** [data-science-project](https://github.com/YOUR-GITHUB-USERNAME/data-science-project)
+- **Featured project:** [data-science-project](https://github.com/cinky8848/data-science-project)
 
 ## How this repository is built
 

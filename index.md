@@ -50,7 +50,7 @@ recovery is land-based.
 |---|---|
 | **Data** | Statistics and Census Service (DSEC) of Macao, via the Macao Open Data Platform — fully open licence, 2018–2025 |
 | **Methods** | pandas cleaning of a mid-series schema change, checkpoint name harmonisation, cross-table validation, five Matplotlib figures |
-| **Repository** | [github.com/YOUR-GITHUB-USERNAME/data-science-project](https://github.com/YOUR-GITHUB-USERNAME/data-science-project) |
+| **Repository** | [github.com/cinky8848/data-science-project](https://github.com/cinky8848/data-science-project) |
 | **Status** | **Completed** (analysis and write-up); extending to monthly data next |
 
 **A limitation I want to be explicit about.** The dataset counts movements, not people. A daily commuter
@@ -67,5 +67,5 @@ purpose-of-travel field, the reallocation between checkpoints can be measured bu
 
 ## Contact
 
-- GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- GitHub: [@cinky8848](https://github.com/cinky8848)
 - Email: *(add your email here if you want it public)*
