@@ -2,3 +2,7 @@ title: Chen Binmo — Data Science Portfolio
 description: Data analysis and visualisation projects, with notebooks, data and figures.
 theme: jekyll-theme-cayman
 show_downloads: false
+
+# Pinned so the theme's "View on GitHub" button always points at the current
+# repository name, even after a rename (jekyll-github-metadata reads this).
+repository: cinky8848/data-science-portfolio
